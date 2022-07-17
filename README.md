@@ -4,4 +4,4 @@ Este projeto foi criado para o curso que estou fazendo no momento, aprendendo as
 
 ## ⚠️ Alert
 
-Lembrando que sou iniciante e devem haver falhas ou melhorias a fazerem.
+Lembrando que sou iniciante e devem haver falhas ou melhorias a serem feitas.
